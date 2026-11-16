@@ -1,0 +1,315 @@
+[
+  {
+    "id": 1,
+    "categoria": "Falha na linha",
+    "titulo": "Declaração de atraso do Metrô (linhas 1, 2, 3 e 15)",
+    "palavras_chave": [
+      "declaração",
+      "atraso",
+      "comprovante de atraso",
+      "declaração de ocorrência",
+      "justificar atraso",
+      "cheguei atrasado",
+      "atrasou",
+      "atrasado",
+      "atrasada",
+      "atrasei",
+      "metrô atrasou"
+    ],
+    "resposta": "Nas linhas 1-Azul, 2-Verde, 3-Vermelha e 15-Prata, depois que a ocorrência termina a declaração fica disponível no site oficial do Metrô, na seção Declaração de Ocorrências, durante o dia. Se a ocorrência foi em outro dia, é preciso abrir uma solicitação no Fale Conosco do site ou ligar para a Central de Informações (0800 770 7722, todos os dias, das 5h à meia-noite). O documento serve para justificar atrasos causados por ocorrências que afetam a circulação dos trens. Para a Linha 4-Amarela o pedido é feito à Via Quatro.",
+    "documentos": [],
+    "onde": "Site do Metrô (Declaração de Ocorrências), Fale Conosco do site, Central de Informações 0800 770 7722",
+    "fonte": "https://www.metro.sp.gov.br/pt_BR/fale-conosco/faq/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Falha na linha",
+    "titulo": "Declaração de atraso nas linhas 4, 5, 8 e 9",
+    "palavras_chave": [
+      "declaração",
+      "atraso",
+      "viaquatro",
+      "viamobilidade",
+      "linha 4",
+      "linha 8",
+      "linha 9",
+      "atrasou"
+    ],
+    "resposta": "Os sites das concessionárias (portal Motiva Trilhos) têm uma página Declaração de ocorrências, com a lista de documentos em PDF. As páginas dizem que mostram os acontecimentos da linha nos últimos 90 dias. O filtro é por mês nas páginas da Linha 4-Amarela e da Linha 5-Lilás, e por mês e por linha na página das Linhas 8 e 9. A Central de atendimento da Linha 4-Amarela é 0800 770 7100; a da Linha 5-Lilás e da ViaMobilidade 8 e 9 é 0800 770 7106 (segunda a sexta, das 6h30 às 22h; sábado e domingo, das 8h às 18h).",
+    "documentos": [],
+    "onde": "Site da concessionária (página Declaração de ocorrências da Linha 4, da Linha 5 ou das Linhas 8 e 9) e Central de atendimento",
+    "fonte": "https://trilhos.motiva.com.br/linha-4-amarela/declaracao-de-ocorrencias",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Falha na linha",
+    "titulo": "Declaração de atraso da CPTM",
+    "palavras_chave": [
+      "declaração",
+      "atraso",
+      "cptm",
+      "trem atrasou",
+      "comunicado de ocorrência",
+      "atrasou"
+    ],
+    "resposta": "Não foi possível confirmar em página oficial da CPTM um passo a passo para pedir a declaração de atraso. O FAQ do Metrô manda quem viajou nas demais linhas (as que não são do Metrô nem da Via Quatro e da ViaMobilidade) consultar o site da CPTM. A Central de Relacionamento da CPTM atende pelo 0800 055 0121, das 5h às 23h, e pelo WhatsApp (11) 99767-7030.",
+    "documentos": [],
+    "onde": "Central de Relacionamento CPTM (0800 055 0121 ou WhatsApp) e site da CPTM",
+    "fonte": "https://www.cptm.sp.gov.br/cptm/contato/fale-conosco",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Falha na linha",
+    "titulo": "Ônibus de apoio (PAESE) quando a linha para",
+    "palavras_chave": [
+      "paese",
+      "ônibus de apoio",
+      "linha parou",
+      "parou",
+      "ônibus emergencial",
+      "parou e agora"
+    ],
+    "resposta": "PAESE é o plano de atendimento entre empresas de transporte para apoio mútuo em situações de emergência. Quando uma operadora pede, a SPTrans coloca ônibus numa linha especial entre as estações afetadas, e o trecho atendido é divulgado nas notícias da Prefeitura e da SPTrans. As páginas oficiais lidas não dizem se o ônibus é gratuito.",
+    "documentos": [],
+    "onde": "Ônibus do plano nas estações afetadas; trecho e itinerário nas notícias da Prefeitura e da SPTrans",
+    "fonte": "https://prefeitura.sp.gov.br/w/noticia/sptrans-ativara-paese-entre-as-estacoes-jabaquara-e-tucuruvi-no-domingo-3",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Falha na linha",
+    "titulo": "Trem parado entre estações",
+    "palavras_chave": [
+      "trem parado",
+      "parou entre estações",
+      "túnel",
+      "evacuação",
+      "descer na via"
+    ],
+    "resposta": "Acompanhe a situação da operação pelo Direto do Metrô (site ou aplicativo). Num simulado anunciado pelo Metrô com o Corpo de Bombeiros na Linha 17-Ouro, em setembro de 2026, o treino previa a evacuação dos passageiros pela passarela de emergência instalada ao longo da linha, com procedimentos de comunicação com eles. Esta orientação ainda não está completa: a regra oficial sobre ficar no trem ou descer na via não pôde ser confirmada em página lida.",
+    "documentos": [],
+    "onde": "Direto do Metrô (site e aplicativo); Central de Informações do Metrô (0800 770 7722, todos os dias, das 5h à meia-noite)",
+    "fonte": "https://www.metro.sp.gov.br/2026/09/21/metro-e-corpo-de-bombeiros-realizam-simulados-de-evacuacao-e-resgate-na-linha-17-ouro/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Falha na linha",
+    "titulo": "Onde ver a situação das linhas",
+    "palavras_chave": [
+      "situação das linhas",
+      "status",
+      "linha parada",
+      "como está a linha",
+      "direto do metrô",
+      "funcionando"
+    ],
+    "resposta": "O Metrô informa em tempo real a situação da operação pelo Direto do Metrô, no site e em aplicativo para iOS e Android, e também pelas redes sociais oficiais e painéis nas estações. A CPTM indica no site o Aplicativo CPTM Oficial, com condições operacionais em tempo real das linhas. A ViaQuatro e a ViaMobilidade (linhas 4, 5, 8 e 9) têm um WhatsApp, (11) 91277-6323, com informações automáticas sobre as condições das linhas.",
+    "documentos": [],
+    "onde": "Site e app Direto do Metrô; app CPTM Oficial; WhatsApp (11) 91277-6323 (Motiva Trilhos, linhas 4, 5, 8 e 9)",
+    "fonte": "https://www.metro.sp.gov.br/sua-viagem/direto-metro/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "categoria": "Chuva e alagamento",
+    "titulo": "Chuva forte e alagamento: o que fazer",
+    "palavras_chave": [
+      "alagamento",
+      "chuva",
+      "chovendo",
+      "enchente",
+      "tempestade",
+      "alagada",
+      "inundação"
+    ],
+    "resposta": "Em inundação, não cruze pontes, ruas ou avenidas alagadas, procure um lugar elevado para estacionar, porque 15 cm de água em movimento podem derrubar uma pessoa e 30 cm podem arrastar um carro. Em tempestade, abrigue-se imediatamente em uma edificação ou veículo, longe de janelas, tomadas e materiais metálicos. Não use aparelhos ligados à fiação elétrica e telefônica.",
+    "documentos": [],
+    "onde": "Orientações do portal SP Sempre Alerta (Defesa Civil de SP)",
+    "fonte": "https://www.spsemprealerta.sp.gov.br/orientacoes/inundacoes/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Chuva e alagamento",
+    "titulo": "Defesa Civil: telefone 199 e alerta por SMS",
+    "palavras_chave": [
+      "defesa civil",
+      "199",
+      "40199",
+      "alerta",
+      "sms",
+      "emergência"
+    ],
+    "resposta": "A Defesa Civil de São Paulo recebe emergências pelo telefone 199. Para receber alertas no celular, envie por SMS o CEP da área de interesse para o 40199; o serviço é gratuito para o cidadão. A Defesa Civil também mantém um canal no WhatsApp para acompanhar os alertas.",
+    "documentos": [],
+    "onde": "Telefone 199; SMS para 40199; canal da Defesa Civil no WhatsApp",
+    "fonte": "https://www.spsemprealerta.sp.gov.br/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Segurança",
+    "titulo": "Celular roubado ou furtado",
+    "palavras_chave": [
+      "celular",
+      "roubado",
+      "furtado",
+      "roubaram",
+      "bloquear",
+      "boletim de ocorrência"
+    ],
+    "resposta": "Comunique a ocorrência e bloqueie o aparelho junto à sua operadora de telefonia o mais rápido possível; o Celular Seguro (gov.br) também permite definir pessoas autorizadas a registrar o roubo ou furto por você. O boletim pode ser feito na Delegacia Eletrônica da Polícia Civil de SP, que funciona 24 horas, vale para fatos ocorridos no Estado de São Paulo e pede dados pessoais, RG ou RNE e CPF. A lista de ocorrências do serviço inclui roubo ou perda de celulares.",
+    "documentos": [
+      "RG ou RNE",
+      "CPF",
+      "dados do aparelho"
+    ],
+    "onde": "Operadora de telefonia; Celular Seguro (gov.br); Delegacia Eletrônica (site da Polícia Civil de SP)",
+    "fonte": "https://www.gov.br/celularseguro",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Segurança",
+    "titulo": "Assédio ou importunação: como denunciar",
+    "palavras_chave": [
+      "assédio",
+      "importunação",
+      "denunciar",
+      "denúncia",
+      "abuso",
+      "sms segurança"
+    ],
+    "resposta": "No Metrô, a ocorrência de segurança pode ser comunicada por SMS ao serviço SMS Segurança, número (11) 97333-2252, pelo aplicativo Metrô Conecta ou a qualquer empregado disponível nas estações. Na CPTM, o Canal de Denúncia aceita denúncias de importunação sexual ou assédios pelo formulário online, pelo e-mail canaldedenuncia@cptm.sp.gov.br ou pelo telefone (11) 3117-7459; a CPTM diz que o anonimato é garantido.",
+    "documentos": [],
+    "onde": "SMS Segurança do Metrô, app Metrô Conecta, empregados nas estações; Canal de Denúncia da CPTM",
+    "fonte": "https://www.cptm.sp.gov.br/cptm/esg-consciente/praticas-de-governanca/canal-de-denuncias",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos do passageiro",
+    "titulo": "Achados e perdidos",
+    "palavras_chave": [
+      "achados e perdidos",
+      "esqueci",
+      "perdido",
+      "objeto",
+      "documento perdido",
+      "perdi meu",
+      "perdi minha",
+      "perdi um",
+      "perdi uma"
+    ],
+    "resposta": "No Metrô, o Posto Central de Achados e Perdidos fica na Estação Sé e funciona de segunda a sexta, das 7h às 20h, exceto feriados; para documentos, a consulta também pode ser feita pela Central de Informações (0800 770 7722). Os objetos ficam guardados por 60 dias. Na CPTM, a Central de Achados e Perdidos fica na Estação Palmeiras-Barra Funda, de segunda a sexta, das 8h às 16h, exceto feriados, com consulta online e o mesmo 0800 e WhatsApp da Central de Relacionamento.",
+    "documentos": [],
+    "onde": "Estação Sé (Metrô); Estação Palmeiras-Barra Funda (CPTM); consulta online e telefone",
+    "fonte": "https://www.cptm.sp.gov.br/cptm/contato/fale-conosco",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos do passageiro",
+    "titulo": "Como reclamar: ouvidorias e Artesp",
+    "palavras_chave": [
+      "reclamação",
+      "reclamar",
+      "ouvidoria",
+      "artesp",
+      "protocolo",
+      "lei 13.460"
+    ],
+    "resposta": "Primeiro registre a reclamação na própria operadora e guarde o número do protocolo. O Metrô tem Fale Conosco no site (24 horas) e Ouvidoria pelos telefones (11) 3291-2890 e 3291-2891, em dias úteis; a CPTM tem Ouvidoria pelo (11) 3117-7094 e pelo portal Fala SP; a ViaQuatro e a ViaMobilidade recebem pelo formulário 'Abra seu chamado' nos sites delas e dizem responder em 20 dias corridos, prorrogáveis por mais 10. Se não houver resposta ou ela não for satisfatória, a Artesp recebe a manifestação pelo 0800 727 83 77 (segunda a sexta, das 7h às 19h, exceto feriados), pelo WhatsApp no mesmo número, pelo Fala SP ou pelo e-mail ouvidoria@artesp.sp.gov.br. A Artesp informa que, pela Lei 13.460/2017, o prazo é de 30 dias, prorrogáveis por mais 30.",
+    "documentos": [
+      "número do protocolo do primeiro contato com a operadora"
+    ],
+    "onde": "Fale Conosco e Ouvidoria da operadora; formulário 'Abra seu chamado' (ViaQuatro e ViaMobilidade); Ouvidoria da Artesp (0800 727 83 77, WhatsApp, Fala SP, e-mail)",
+    "fonte": "https://www.artesp.sp.gov.br/artesp/canais-de-comunicacao/ouvidoria",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 13,
+    "categoria": "Acessibilidade e gratuidades",
+    "titulo": "Gratuidade para 65 anos ou mais",
+    "palavras_chave": [
+      "gratuidade",
+      "idoso",
+      "65 anos",
+      "passe livre idoso",
+      "de graça",
+      "estatuto da pessoa idosa"
+    ],
+    "resposta": "O Estatuto da Pessoa Idosa (Lei 10.741/2003, art. 39) garante gratuidade nos transportes coletivos públicos urbanos e semiurbanos para quem tem mais de 65 anos; para usar basta apresentar qualquer documento pessoal que prove a idade. Na cidade de São Paulo, a SPTrans oferece o Bilhete Único Especial da Pessoa Idosa, pedido no site de Atendimento da SPTrans ou em posto de atendimento, com agendamento prévio. De 60 a 64 anos, a gratuidade é carregada no Bilhete Único Comum e precisa ser recarregada todo mês.",
+    "documentos": [
+      "documento pessoal que prove a idade",
+      "para o Bilhete Único Especial: documento com foto emitido há até 10 anos, CPF (se não constar no documento), comprovante de residência recente e telefone para contato; no Atendimento Digital, selfie 3x4 com fundo branco"
+    ],
+    "onde": "Embarque com documento que prove a idade ou com o Bilhete Único Especial; pedido pelo site de Atendimento da SPTrans (sptrans.com.br/atendimento) ou em posto de atendimento, com agendamento",
+    "fonte": "https://www.sptrans.com.br/perguntas-e-respostas/?sobre=bilhete-pessoa-idosa",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 14,
+    "categoria": "Acessibilidade e gratuidades",
+    "titulo": "Gratuidade para pessoas com deficiência",
+    "palavras_chave": [
+      "gratuidade",
+      "deficiência",
+      "pcd",
+      "bilhete especial",
+      "passe livre",
+      "isenção"
+    ],
+    "resposta": "O Bilhete Único Especial da Pessoa com Deficiência é para quem mora na cidade de São Paulo ou na região metropolitana. O pedido usa um formulário da SPTrans preenchido pelo médico (válido por 90 dias), que a pessoa imprime no Atendimento da SPTrans, depois do login, ou pega em um posto. O cadastro é feito pessoalmente no posto, sem representante. A SPTrans analisa em até 20 dias depois que o pedido está completo. Alguns cartões valem só nos ônibus municipais; confira o verso do cartão antes de usar no metrô e no trem.",
+    "documentos": [
+      "documento oficial com foto",
+      "CPF, se não constar no documento",
+      "comprovante de residência dos últimos 6 meses",
+      "formulário da SPTrans preenchido pelo médico",
+      "exames ou laudos, se a lista da SPTrans exigir para o seu caso"
+    ],
+    "onde": "Atendimento da SPTrans (site), para imprimir o formulário e acompanhar o pedido; posto de atendimento, para o cadastro",
+    "fonte": "https://www.sptrans.com.br/perguntas-e-respostas/?sobre=bilhete-pcd",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 15,
+    "categoria": "Acessibilidade e gratuidades",
+    "titulo": "Acessibilidade e atendimento preferencial nas estações",
+    "palavras_chave": [
+      "acessibilidade",
+      "cadeirante",
+      "mobilidade reduzida",
+      "elevador",
+      "atendimento preferencial",
+      "embarque assistido"
+    ],
+    "resposta": "No Metrô, quem tiver dificuldade de acesso nas estações pode pedir ajuda a um funcionário e ter atendimento preferencial, ou ligar para a Central de Informações (0800 770 7722, todos os dias, das 5h à meia-noite). Na CPTM, todos os colaboradores das estações estão habilitados para auxiliar pessoas com restrição de mobilidade. O serviço Táxi Acessível, gratuito e exclusivo para pessoas com deficiência físico-motora, atende as estações sem recursos de acessibilidade: um colaborador da estação chama o táxi, que leva a pessoa à estação acessível mais próxima.",
+    "documentos": [],
+    "onde": "Empregados nas estações; Central de Informações do Metrô (0800 770 7722); colaborador da estação da CPTM para chamar o Táxi Acessível",
+    "fonte": "https://www.cptm.sp.gov.br/cptm/sua-viagem/acessibilidade",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 16,
+    "categoria": "Acessibilidade e gratuidades",
+    "titulo": "Tarifas e integração do Bilhete Único",
+    "palavras_chave": [
+      "tarifa",
+      "preço",
+      "passagem",
+      "quanto custa",
+      "integração",
+      "bilhete único"
+    ],
+    "resposta": "Pela tabela da SPTrans atualizada em 06/01/2026, o crédito comum custa R$ 5,30 no ônibus e R$ 5,40 no sistema metroferroviário, e a integração ônibus mais metrô ou trem custa R$ 9,38 no Bilhete Único Comum. O Metrô informa que o Bilhete Único Comum cobre uma viagem de metrô ou trem e até 3 embarques em ônibus municipais diferentes no período de 3 horas, com a viagem sobre trilhos feita nas primeiras 2 horas. O bilhete unitário de metrô e CPTM custa R$ 5,40 e vale para uma viagem.",
+    "documentos": [],
+    "onde": "Site da SPTrans (Tarifas) e página Bilhetes e Cartões do Metrô",
+    "fonte": "https://www.sptrans.com.br/tarifas/",
+    "verificado_em": "2026-11-16"
+  }
+]
