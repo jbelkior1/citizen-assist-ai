@@ -151,10 +151,12 @@ Algumas informações foram completadas pela Carta de Serviços do Metrô de out
 
 ## Resultado do teste com usuários
 
-- Pessoas e atendimentos: [a preencher]
-- Indicadores (resposta encontrada, taxa de acerto, tempo médio, tentativas, facilidade de uso): [a preencher]
-- Dúvidas sem solução: [a preencher]
-- Melhoria feita a partir do teste: [a preencher]
+Teste feito em 19/11/2026, com o próprio programa (`python main.py`, opção 1), sem registrar nomes nem dados das pessoas. Os números abaixo saem da opção 3 (indicadores) e estão em `data/historico.json`, `data/notas_facilidade.json` e `data/atendimentos.csv`.
+
+- Pessoas e atendimentos: 6 sessões de uso (cada sessão termina com a nota de facilidade) e 10 atendimentos. Temas procurados: trem parado, chuva e alagamento, achados e perdidos, reclamação, tarifa e Bilhete Único, celular roubado e assédio.
+- Indicadores: resposta encontrada em 90% dos atendimentos (9 de 10); taxa de acerto (a pessoa disse que a orientação respondeu) de 90%; tempo médio de 23,3 s por atendimento; 1,9 tentativa em média; facilidade de uso 4,3 de 5 (notas 5, 4, 5, 4, 5 e 3).
+- Dúvidas sem solução: uma, em que a pessoa digitou só "-". Três atendimentos precisaram de várias tentativas até a resposta certa (achados e perdidos com 3, alagamento com 4 e reclamação com 5); como cada atendimento guarda só a última pergunta, as frases das tentativas anteriores não ficaram registradas.
+- Melhoria feita a partir do teste: o "-" virou um atendimento sem solução e puxou os indicadores para baixo, sem ser uma dúvida de verdade. Agora um texto sem nenhuma letra ou número é tratado como entrada inválida: o assistente pede para escrever a dúvida com palavras e não registra nada (`assistente.py`, método `perguntar`; testes em `tests/pcp` no repositório do projeto). O registro do teste foi mantido como aconteceu.
 
 ## Limitações
 

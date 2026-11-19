@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "data": "2026-11-19 10:23:22",
+    "origem": "pergunta",
+    "pergunta": "trem parado ou linha com problema",
+    "orientacao_id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 21.1
+  },
+  {
+    "data": "2026-11-19 10:24:03",
+    "origem": "pergunta",
+    "pergunta": "chuva e alagamento hoje?",
+    "orientacao_id": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 24.3
+  },
+  {
+    "data": "2026-11-19 10:24:48",
+    "origem": "pergunta",
+    "pergunta": "achados e perdidos",
+    "orientacao_id": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_segundos": 27.6
+  },
+  {
+    "data": "2026-11-19 10:25:45",
+    "origem": "pergunta",
+    "pergunta": "como reclamar",
+    "orientacao_id": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 5,
+    "tempo_segundos": 42.7
+  },
+  {
+    "data": "2026-11-19 10:27:52",
+    "origem": "pergunta",
+    "pergunta": "tarifa e Bilhete Único",
+    "orientacao_id": 16,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.8
+  },
+  {
+    "data": "2026-11-19 10:27:55",
+    "origem": "pergunta",
+    "pergunta": "-",
+    "orientacao_id": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 3.7
+  },
+  {
+    "data": "2026-11-19 10:28:30",
+    "origem": "pergunta",
+    "pergunta": "celular roubado no metro",
+    "orientacao_id": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 20.3
+  },
+  {
+    "data": "2026-11-19 10:29:01",
+    "origem": "pergunta",
+    "pergunta": "assedio no metro",
+    "orientacao_id": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 16.5
+  },
+  {
+    "data": "2026-11-19 10:35:08",
+    "origem": "pergunta",
+    "pergunta": "alagamento",
+    "orientacao_id": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 4,
+    "tempo_segundos": 35.4
+  },
+  {
+    "data": "2026-11-19 10:35:37",
+    "origem": "pergunta",
+    "pergunta": "perdi meu oculos",
+    "orientacao_id": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 13.1
+  }
+]

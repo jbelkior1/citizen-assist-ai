@@ -281,6 +281,11 @@ class Assistente:
             if not texto.strip():
                 print("Digite sua dúvida ou 0 para voltar.")
                 continue
+            # Melhoria do teste com usuários (19/11): "-" contou como dúvida sem solução.
+            # Texto sem nenhuma letra ou número não é dúvida; pede de novo e não registra.
+            if not any(caractere.isalnum() for caractere in texto):
+                print("Escreva sua dúvida com palavras (ex.: trem parado) ou 0 para voltar.")
+                continue
             if self.tem_dado_pessoal(texto):
                 print(MENSAGEM_DADO_PESSOAL)
                 continue
