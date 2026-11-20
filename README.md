@@ -2,6 +2,8 @@
 
 Assistente de terminal, em Python, que responde dúvidas do cidadão **somente com o que está na base de conhecimento** (`data/base_conhecimento.json`), sempre mostrando a fonte, a data de verificação e o aviso de que o assistente não é canal oficial. Não coleta dados pessoais.
 
+**Vídeo pitch do projeto:** https://www.youtube.com/watch?v=TXzhmbRmonE
+
 Trabalho da Global Solution 2026.2 (FIAP), tema CitizenTech, matéria Pensamento Computacional e Automação com Python.
 
 > **Conferência das fontes:** as 16 orientações vieram de páginas oficiais; a URL de cada uma está no campo `fonte`. Em 16/11/2026 todas as fontes foram abertas de novo e cada telefone, horário, prazo e documento foi comparado com a página; o texto foi corrigido onde a fonte não sustentava a frase, e `verificado_em` passou a 2026-11-16.
