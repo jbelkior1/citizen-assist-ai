@@ -169,4 +169,4 @@ Teste feito em 19/11/2026, com o próprio programa (`python main.py`, opção 1)
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): [a preencher]
+Link (YouTube, não listado): https://youtu.be/ZzU907XdyFE
